@@ -1,0 +1,7 @@
+Dominar el uso de la terminal y mantener una estructura de archivos organizada es fundamental para cualquier desarrollador, ya que representa la base de la eficiencia y la automatización en el software. 
+La terminal permite interactuar de forma directa con el sistema operativo, lo que optimiza el tiempo 
+de ejecución de tareas en comparación con el uso de interfaces gráficas convencionales. Además, el control total del entorno
+ mediante comandos facilita la integración de herramientas clave en el flujo de trabajo, como los sistemas de control de versiones. 
+Una gestión ordenada de directorios previene la pérdida de información crítica y agiliza la localización de módulos de código dentro de proyectos de gran envergadura. El conocimiento de 
+estos comandos nativos es indispensable para configurar servidores, desplegar aplicaciones en entornos de producción y automatizar scripts de prueba. 
+Para terminar, la terminal no es solo una herramienta de navegación, sino el canal principal para controlar el ciclo de vida del desarrollo.
