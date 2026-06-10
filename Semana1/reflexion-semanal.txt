@@ -1,0 +1,9 @@
+El uso responsable de la información y la participación ciudadana están estrechamente
+vinculados con la organización técnica del trabajo en el entorno digital actual.
+Al verificar las fuentes y compartir datos confiables, ejercemos una ciudadanía
+ética que fortalece la confianza colectiva en las plataformas de internet.
+Por su parte, el uso de herramientas de control de versiones como Git traslada
+este principio de responsabilidad al desarrollo técnico, permitiendo registrar,
+auditar y estructurar de manera transparente cada avance de un proyecto.
+Así, la organización rigurosa del trabajo no solo optimiza la colaboración en equipo,
+sino que asegura que el impacto de nuestras soluciones tecnológicas sea seguro y confiable.
