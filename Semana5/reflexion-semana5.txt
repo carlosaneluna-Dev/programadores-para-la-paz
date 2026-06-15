@@ -1,0 +1,14 @@
+Reflexión Semana 5 - APIs y comunidad
+
+Las APIs pueden transformar la forma en que las comunidades comparten 
+información, ya que permiten que diferentes aplicaciones se comuniquen 
+entre sí de manera estructurada y organizada. En contextos comunitarios, 
+una API bien diseñada podría servir como canal oficial para enviar reportes 
+de problemas barriales, alertas de seguridad o solicitudes de servicios. 
+Esto evitaría la dispersión de información en redes sociales o mensajes 
+informales, centralizando los datos en un sistema confiable. Además, 
+permitiría que líderes comunitarios o autoridades locales reciban y 
+gestionen la información de forma más eficiente. Una API comunitaria 
+también podría conectar a los ciudadanos con instituciones públicas, 
+facilitando la participación activa y la transparencia en la gestión 
+de recursos y necesidades del territorio.
