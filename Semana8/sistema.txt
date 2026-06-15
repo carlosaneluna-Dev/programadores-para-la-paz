@@ -1,0 +1,21 @@
+Comandos de información del sistema - Semana 8
+
+Comando: uname -a
+Resultado: Linux codespaces-6474b6 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP x86_64 GNU/Linux
+Qué muestra: El nombre del sistema operativo (Linux), el nombre del equipo,
+la versión del kernel, la arquitectura del procesador (x86_64) y el tipo
+de sistema. Es útil para saber exactamente qué versión de Linux está
+corriendo en el servidor y verificar compatibilidad con software.
+
+Comando: whoami
+Resultado: codespace
+Qué muestra: El nombre del usuario activo en la sesión actual.
+Es útil para verificar con qué permisos estamos trabajando en el servidor
+y asegurarnos de no estar ejecutando comandos como administrador
+cuando no es necesario.
+
+¿Por qué es útil conocer esta información?
+Cuando se administra un servidor, conocer el sistema operativo, la versión
+del kernel y el usuario activo permite tomar decisiones de seguridad más
+precisas, identificar vulnerabilidades específicas de esa versión y aplicar
+las configuraciones correctas según el entorno.

@@ -1,0 +1,26 @@
+5 prácticas de seguridad para plataformas digitales comunitarias - Semana 8
+
+1. Proteger credenciales de acceso
+Cada miembro de la plataforma debe tener usuario y contraseña propios,
+usando combinaciones seguras y sin compartirlas con otras personas,
+para evitar accesos no autorizados a información sensible de la comunidad.
+
+2. Aplicar el principio de mínimo privilegio
+Cada usuario debe tener acceso únicamente a las funciones que necesita
+según su rol. Un miembro no debe poder modificar configuraciones del
+sistema si su función es solo publicar reportes o consultar información.
+
+3. Registrar y monitorear accesos mediante logs
+Toda acción importante dentro de la plataforma debe quedar registrada:
+quién accedió, cuándo y qué hizo. Esto permite detectar comportamientos
+sospechosos y tener trazabilidad de los eventos del sistema.
+
+4. Usar conexiones seguras (HTTPS)
+Toda comunicación entre los usuarios y la plataforma debe estar cifrada
+mediante protocolos seguros, para evitar que terceros intercepten datos
+personales, contraseñas o reportes comunitarios.
+
+5. Mantener el software actualizado
+Las aplicaciones, librerías y sistemas operativos deben actualizarse
+regularmente para corregir vulnerabilidades conocidas que podrían ser
+aprovechadas por atacantes para comprometer la plataforma.

@@ -1,0 +1,17 @@
+Reflexión Semana 8 - Seguridad digital y plataformas comunitarias
+
+La seguridad digital es uno de los pilares más importantes para cualquier
+plataforma que sea usada por una comunidad, porque no se trata solo de
+proteger datos sino de cuidar la confianza que las personas depositan en
+el sistema. Si una plataforma comunitaria es vulnerada, no solo se pierden
+datos sino también la credibilidad del proyecto y la disposición de los
+miembros para seguir participando. Por eso, proteger credenciales, aplicar
+permisos adecuados y registrar accesos no son tareas opcionales sino
+condiciones básicas para que una plataforma funcione con transparencia.
+Además, el uso de tecnologías de código abierto fortalece esta seguridad
+porque permite que cualquier persona con conocimiento técnico pueda revisar
+el sistema, detectar fallas y proponer mejoras sin depender de empresas
+privadas. En comunidades organizadas alrededor de procesos participativos,
+donde la información puede ser sensible o crítica, la seguridad digital
+se convierte en una forma de proteger también los derechos y la dignidad
+de quienes confían en esa plataforma para comunicarse y organizarse.

@@ -1,0 +1,3 @@
+1. Proteger contraseñas usando combinaciones seguras y no compartirlas con nadie
+2. No compartir credenciales de acceso ni permisos con personas no autorizadas
+3. Mantener el software actualizado para evitar vulnerabilidades conocidas
