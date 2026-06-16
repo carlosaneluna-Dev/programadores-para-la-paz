@@ -1,0 +1,24 @@
+Prueba de la API - Ruta POST /registro - Semana 6
+
+Se envió una petición POST a http://localhost:3000/registro
+usando la herramienta curl, con el siguiente JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor respondió con el siguiente JSON:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto demuestra que el servidor recibe correctamente los datos enviados
+en el cuerpo de la petición (req.body), los procesa y devuelve una
+respuesta confirmando que la información fue recibida, incluyendo
+los mismos datos que el cliente envió. Esto es posible gracias al
+middleware express.json(), que permite que Express interprete el
+cuerpo de la petición como un objeto JSON utilizable en el código.

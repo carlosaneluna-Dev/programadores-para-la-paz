@@ -1,0 +1,15 @@
+Reflexión Semana 6 - Recepción estructurada de información ciudadana
+
+Que las plataformas tecnológicas puedan recibir reportes o información
+enviada por los ciudadanos de forma estructurada es fundamental para que
+las comunidades puedan comunicarse de manera organizada con sus líderes
+o autoridades locales. Cuando la información llega en un formato como
+JSON, con campos claros y definidos, se facilita el procesamiento, el
+almacenamiento y el análisis de cada reporte, evitando la confusión que
+generan los mensajes informales o dispersos en redes sociales. Además,
+esto permite que distintos sistemas puedan comunicarse entre sí, ya que
+JSON es un formato universal que pueden interpretar tanto aplicaciones
+web como móviles. Una plataforma que recibe reportes estructurados puede
+clasificar incidencias por tipo, urgencia o ubicación, lo que agiliza la
+respuesta y mejora la confianza de la comunidad en que sus reportes
+serán atendidos de manera ordenada y transparente.
