@@ -1,0 +1,17 @@
+Reflexión Semana 7 - Registro y consulta de reportes comunitarios
+
+Que las comunidades puedan registrar y consultar reportes o incidencias
+en una plataforma tecnológica es fundamental para organizar la información
+de manera clara y accesible. Cuando un ciudadano detecta un problema,
+como un daño en infraestructura o una situación ambiental, contar con
+un sistema donde pueda registrar ese reporte garantiza que la información
+no se pierda y quede disponible para su seguimiento. Además, la posibilidad
+de consultar los reportes existentes permite que tanto los ciudadanos como
+las autoridades tengan una visión clara de los problemas que enfrenta la
+comunidad, evitando la duplicación de esfuerzos y facilitando la
+priorización de soluciones. Un sistema de este tipo también fortalece la
+transparencia, porque la información queda organizada y disponible en
+lugar de dispersarse en conversaciones informales. A medida que estas
+plataformas evolucionan hacia bases de datos más robustas, se convierten
+en herramientas poderosas para la participación ciudadana y la gestión
+eficiente de recursos comunitarios.

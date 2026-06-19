@@ -1,0 +1,41 @@
+Prueba de la API de reportes - Semana 7
+
+Primero se consultó la ruta GET /reportes sin haber registrado nada,
+y el servidor respondió con un array vacío:
+
+[]
+
+Luego se envió una petición POST a http://localhost:3000/reportes
+con el siguiente JSON:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Dano en alumbrado publico"
+}
+
+El servidor respondió confirmando el registro:
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Dano en alumbrado publico"
+  }
+}
+
+Al volver a consultar la ruta GET /reportes, el servidor mostró el
+reporte recién agregado dentro del array, demostrando que la información
+quedó almacenada en memoria mientras el servidor sigue activo:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Dano en alumbrado publico"
+  }
+]
+
+Esto confirma que la ruta POST agrega elementos al array reportes
+y la ruta GET permite consultar todos los elementos almacenados
+hasta el momento.
