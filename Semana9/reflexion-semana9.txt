@@ -1,0 +1,19 @@
+Reflexión Semana 9 - Estabilidad y seguridad de los servidores comunitarios
+
+Creo que muchas veces subestimamos lo que hay detrás de una plataforma
+que "simplemente funciona". Para una comunidad, que un servidor se caiga
+en el peor momento no es solo un problema técnico, es perder la confianza
+de la gente que depende de esa herramienta para algo real, como reportar
+un daño o consultar información importante. Y esa confianza, una vez se
+pierde, es muy difícil de recuperar. Por eso pienso que la estabilidad no
+debería verse como un lujo técnico, sino como una responsabilidad con las
+personas que usan la plataforma. Lo mismo pasa con los logs: sin ellos,
+uno está literalmente trabajando a ciegas, sin saber qué falló ni por qué,
+y eso es un riesgo enorme cuando se trata de un proyecto comunitario donde
+los errores afectan a terceros, no solo al desarrollador. La seguridad
+básica, como mantener el software actualizado o no descuidar las
+credenciales, tampoco debería tratarse como algo opcional, porque un
+descuido ahí puede tirar por la borda meses de trabajo y de confianza
+construida. Al final, creo que un servidor estable y bien cuidado dice
+mucho del compromiso real que hay detrás de una plataforma comunitaria,
+más allá de lo bonita que se vea por fuera.
