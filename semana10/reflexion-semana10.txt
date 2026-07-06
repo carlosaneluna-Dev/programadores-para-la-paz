@@ -1,0 +1,11 @@
+REFLEXIÓN SOBRE METODOLOGÍAS ÁGILES Y AUTOMATIZACIÓN
+Las metodologías ágiles y la automatización son heramientas transformadoras para la 
+gestión comunitaria porque aportan orden y eficiencia donde antes solía haber caos o procesos lentos.
+El uso de un backlog e iteraciones cortas permite que el equipo de trabajo se enfoque en resolver 
+los problemas más urgentes paso a paso, sin abrumarse y entregando resultados visibles rápidamente. 
+Por otro lado, integrar plataformas como n8n y canales de uso cotidiano como Telegram rompe las barreras de 
+comunicación tradicionales, manteniendo a todos informados en tiempo real de manera transparente.
+ Al automatizar tareas repetitivas, como los avisos de nuevos casos, se optimiza el tiempo de los líderes comunitarios, 
+ permitiendo que se concentren en la acción y en la veeduría ciudadana real. En definitiva, esta combinación
+  tecnológica democratiza el acceso a la información, asegura la trazabilidad de los procesos y fortalece la confianza y participación 
+de la comunidad en sus propios proyectos.

@@ -1,0 +1,10 @@
+BACKLOG DEL PROYECTO COMUNITARIO
+
+[ALTA PRIORIDAD]
+1. Como ciudadano, quiero reportar una falla en los servicios públicos (como una fuga de agua o un bache) a través de un formulario web para dejar evidencia del caso con su ubicación y descripción.
+
+[MEDIA PRIORIDAD]
+2. Como coordinador de la comunidad, quiero recibir una alerta automática en Telegram cada vez que se registre un nuevo reporte para revisarlo y asignarlo rápidamente sin tener que chequear la base de datos manualmente.
+
+[BAJA PRIORIDAD]
+3. Como miembro de la comunidad, quiero consultar un listado público de reportes activos en la plataforma para hacer seguimiento a las soluciones y saber si mi problema ya fue reportado por alguien más.

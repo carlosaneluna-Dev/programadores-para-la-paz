@@ -1,0 +1,14 @@
+PLANIFICACIÓN DE LA ITERACIÓN
+
+1. ¿Qué 2 tareas del backlog harías primero?
+- Tarea 1: El formulario web para que el ciudadano registre la falla.
+- Tarea 2: El sistema de alerta automática en Telegram para el coordinador.
+
+2. ¿Por qué son las más importantes?
+Porque representan el flujo mínimo y esencial para que el sistema tenga valor. Sin el registro del ciudadano no existen datos que procesar, y sin la alerta al coordinador el reporte se quedaría estancado sin atención. Al priorizar estas dos, garantizamos que la comunicación y la trazabilidad comunitaria empiecen a funcionar desde el primer día.
+
+3. Definición de Terminado (Definition of Done - DoD)
+Para mí, una tarea está "terminada" cuando cumple con los siguientes criterios:
+- Funciona correctamente y cumple el objetivo de la historia de usuario sin romper otras partes del sistema.
+- Fue probada localmente simulando el uso real (por ejemplo, enviando un reporte de prueba con éxito).
+- El código y los archivos de configuración quedaron registrados en el repositorio de Git con un commit limpio.

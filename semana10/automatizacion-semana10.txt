@@ -1,0 +1,15 @@
+DISEÑO DE AUTOMATIZACIÓN (n8n + Telegram)
+
+1. ¿Qué evento activa el flujo?
+El flujo se activa mediante un nodo "Webhook" o "Trigger" en n8n que detecta la inserción de un nuevo reporte en la base de datos (o el envío de un formulario de incidencias).
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Mensaje a enviar:
+"⚠️ ¡Atención! Se ha registrado un nuevo reporte comunitario en el sistema. Por favor, ingresa al panel de control para revisar los detalles y asignar un responsable. Código del reporte: #REP-XXXX."
+
+3. ¿Qué información no debería enviarse por seguridad?
+Por políticas de privacidad y seguridad de datos, NO se debe enviar:
+- Nombres completos ni apellidos de los ciudadanos que reportan.
+- Documentos de identidad (cédulas) ni números de teléfono.
+- Direcciones exactas domiciliarias (solo se indicará el sector general o corregimiento).
+- Contraseñas, tokens, claves de API o cualquier dato sensible que pueda ser interceptado.
