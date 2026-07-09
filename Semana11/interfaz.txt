@@ -1,0 +1,33 @@
+Interfaz básica - Plataforma comunitaria - Semana 11
+
+La interfaz de la plataforma estaría organizada en secciones claras
+y sencillas para que cualquier miembro de la comunidad pueda usarla
+sin dificultad, independientemente de su nivel técnico.
+
+Sección 1: Crear una causa
+Tendría un formulario con los siguientes campos:
+- Título de la causa
+- Descripción detallada
+- Fecha de inicio
+- Botón "Publicar causa"
+Esta sección solo estaría disponible para usuarios autenticados.
+
+Sección 2: Lista de causas disponibles
+Mostraría todas las causas activas en la plataforma con su título,
+descripción resumida, fecha y cantidad de apoyos recibidos. Cualquier
+visitante podría ver esta sección sin necesidad de iniciar sesión.
+
+Sección 3: Detalle de una causa
+Al hacer clic en una causa, se vería la información completa junto
+con un botón de "Apoyar esta causa" y un contador que muestra
+cuántas personas la han apoyado hasta el momento. El botón solo
+funcionaría para usuarios autenticados.
+
+Sección 4: Panel de administración
+Solo visible para administradores, permitiría gestionar usuarios,
+revisar causas reportadas y monitorear la actividad general de
+la plataforma.
+
+La interfaz no mostraría en ningún momento información privada
+de los usuarios como correos, teléfonos o documentos de identidad,
+garantizando la privacidad de quienes participan en la plataforma.

@@ -1,0 +1,19 @@
+Reflexión Semana 11 - Base de datos, autenticación y protección de información
+
+Una plataforma tecnológica que promueve participación ciudadana necesita
+base de datos, autenticación y protección de información porque sin estos
+tres elementos no puede funcionar de forma responsable ni sostenible en
+el tiempo. La base de datos permite que la información no se pierda cada
+vez que el servidor se reinicia, como ocurrió con los arrays en memoria
+de semanas anteriores, y garantiza que los reportes, causas y apoyos
+queden registrados de forma permanente y consultable. La autenticación
+es igual de necesaria porque sin ella cualquier persona podría modificar
+o eliminar información que no le corresponde, comprometiendo la integridad
+de todo lo que la comunidad ha construido. Y la protección de datos
+sensibles no es un detalle técnico opcional sino una responsabilidad
+ética con quienes confían en la plataforma para participar: exponer
+contraseñas, documentos o teléfonos de los miembros puede tener
+consecuencias reales en su seguridad física y digital. En conjunto,
+estos tres elementos no solo hacen que la plataforma funcione mejor
+técnicamente, sino que la hacen digna de la confianza que la comunidad
+deposita en ella cada vez que registra una causa o apoya una iniciativa.
