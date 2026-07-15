@@ -1,0 +1,13 @@
+Automatizacion con n8n / Telegram
+
+Evento que activa la automatizacion: se registra una nueva causa en la plataforma.
+
+Mensaje que se envia: "Nueva causa creada en la plataforma: [titulo de la causa]".
+
+Informacion que NO debe enviarse por seguridad:
+- Numeros de cedula
+- Telefonos personales
+- Direcciones fisicas
+- Comentarios o datos sensibles de los ciudadanos que apoyan la causa
+
+Solo se envia informacion general y no identificable, para proteger la privacidad de las personas que participan.
